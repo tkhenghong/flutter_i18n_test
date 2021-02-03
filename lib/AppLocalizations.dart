@@ -5,6 +5,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_i18n_test/AppLocalizationsDelegate.dart';
 
 // Main reference: https://medium.com/flutter-community/flutter-internationalization-the-easy-way-using-provider-and-json-c47caa4212b2
+// This class is a class that is following abstract class LocalizationsDelegate<T> in localizations.dart.
 class AppLocalizations {
   final Locale locale;
 
